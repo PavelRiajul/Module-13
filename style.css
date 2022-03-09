@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    width: 100%;
+    height: 650px;
+    background: url(./image/doctor-1-banner.jpg);
+    background-size: cover;
+overflow: hidden;
+    position: relative;
+}
+.overlay{
+
+
+
+
+}
+.overlay{
+
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,055,0.5);
+}
